@@ -1,0 +1,9 @@
+langchain==0.2.7
+langchain_openai==0.1.15
+langchain-community==0.2.7
+langchainhub==0.1.20
+openai==1.35.13
+chromadb==0.5.4
+beautifulsoup4==4.12.3
+duckduckgo-search==6.1.12
+wikipedia==1.4.0
